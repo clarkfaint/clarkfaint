@@ -17,7 +17,7 @@ Passionate about infrastructure, automation, and DevOps. I specialize in buildin
 ## 🚀 Featured Technical Projects
 * **[My First Homelab](https://github.com/clarkfaint/my-first-homelab)** 
   * A containerized Docker server running on Fedora Workstation 44. Features local DNS management via split-horizon Pi-hole wildcard configurations (`*.homelab.internal`) and encrypted zero-trust mesh networking via Tailscale.
-  * **[Homelab Expansion](https://github.com/clarkfaint/homelab-expansion)** 
+* **[Homelab Expansion](https://github.com/clarkfaint/homelab-expansion)** 
   * Enterprise-grade bare-metal homelab overhaul migrating standalone hardware into a unified Type-1 hypervisor node. Documents hardware optimization, a 4-drive fault-tolerant ZFS pool, local wildcard DNS routing via Pi-hole, and secure TLS reverse-proxy delivery via Nginx Proxy Manager to support a production-ready Kubernetes ecosystem.
 
 ---
