@@ -6,9 +6,9 @@ Passionate about infrastructure, automation, and DevOps. I specialize in buildin
 ---
 
 ## 📜 Certifications & Professional Development
-* **CompTIA A+** - Certification Date: September 12, 2026, Expiration Date: September 12, 2029
-* **CompTIA Network+** – *In Progress (Target Exam: Fall 2026)*
-* **CompTIA Security+** – *In Progress (Target Exam: Fall 2026)*
+* **CompTIA A+** - Issued Sept 2026, Expires Oct 2029
+* **CompTIA Network+** – Issued Sept 2026, Expires Oct 2029
+* **CompTIA Security+** – Issued Oct 2026, Expires Oct 2029
 * **Computer User Support Specialist (CUSS)** – ACI Learning Enrollment
 * **U.S. Air Force Technical Training** – Systems Deployment & Network Implementation (Signals Intelligence Baseline)
 
