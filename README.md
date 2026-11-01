@@ -19,6 +19,8 @@ Passionate about infrastructure, automation, and DevOps. I specialize in buildin
   * A containerized Docker server running on Fedora Workstation 44. Features local DNS management via split-horizon Pi-hole wildcard configurations (`*.homelab.internal`) and encrypted zero-trust mesh networking via Tailscale.
 * **[Homelab Expansion](https://github.com/clarkfaint/homelab-expansion)** 
   * Enterprise-grade bare-metal homelab overhaul migrating standalone hardware into a unified Type-1 hypervisor node. Documents hardware optimization, a 4-drive fault-tolerant ZFS pool, local wildcard DNS routing via Pi-hole, and secure TLS reverse-proxy delivery via Nginx Proxy Manager to support a production-ready Kubernetes ecosystem.
+* **[Hermes Agent + REA Lab](https://github.com/clarkfaint/hermes-agent-rea-lab)**
+  * Self-hosted AI agent (Nous Research's Hermes) running in a hardened Ubuntu Server VM on the Homelab Expansion's Proxmox node, reachable through Slack (Socket Mode) and a LAN-only, password-protected dashboard. Extended over MCP with REA reverse-engineering tools, trimmed from 229 to 26 static-analysis tools, for software supply-chain (SBOM) and vendor-risk analysis.
 
 ---
 
