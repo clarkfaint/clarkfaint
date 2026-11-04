@@ -16,7 +16,7 @@ Passionate about infrastructure, automation, and DevOps. I specialize in buildin
 
 ## 🚀 Featured Technical Projects
 * **[My First Homelab](https://github.com/clarkfaint/my-first-homelab)** 
-  * A containerized Docker server running on Fedora Workstation 44. Features local DNS management via Pi-hole wildcard configurations (`*.homelab.internal`) and encrypted zero-trust mesh networking via Tailscale.
+  * A containerized Docker server running on Fedora Workstation 44. Features local DNS management via Pi-hole wildcard configurations (`*.homelab.internal`) and encrypted mesh networking via Tailscale.
 * **[Homelab Expansion](https://github.com/clarkfaint/homelab-expansion)** 
   * Bare-metal homelab overhaul migrating standalone hardware into a unified Type-1 hypervisor node. Documents hardware optimization, a 4-drive fault-tolerant ZFS pool, local wildcard DNS routing via Pi-hole, and secure TLS reverse-proxy delivery via Nginx Proxy Manager, with Kubernetes planned as a future step.
 * **[Hermes Agent + REA Lab](https://github.com/clarkfaint/hermes-agent-rea-lab)**
@@ -28,6 +28,6 @@ Passionate about infrastructure, automation, and DevOps. I specialize in buildin
 * **Operating Systems:** Linux (Fedora/RHEL, Debian/Ubuntu, UNIX baselines), Windows Client & Server
 * **Networking & Security:** Local DNS Infrastructure, Wildcard DNS Routing (Pi-hole/dnsmasq), Static IP Architecture, Layer 7 Traffic Management (Nginx Proxy Manager), SSL/TLS Certificate Management, Mesh VPNs (Tailscale, WireGuard)
 * **Virtualization & Containers:** Type-1 Hypervisors (Proxmox VE), Type-2 Virtualization (VirtualBox Active Directory Labs), Containerization (Docker, Portainer)
-* **Storage Engineering:** Software-Defined Storage Arrays, ZFS File Systems (RAIDZ1 parity pools), Physical Hardware Lifecycles & PCIe Expansion Integration
+* **Storage:** ZFS (RAIDZ1 pools), Hardware Upgrades, PCIe SATA Expansion
 * **AI Agents & Software Analysis:** Self-Hosted AI Agents (Hermes Agent), Model Context Protocol (MCP) Tool Integration, MCP Tool Allow-Listing, Agent Messaging Integrations (Slack Socket Mode), Static Binary Analysis (ELF/PE, REA), Code-Signing Verification, Software Supply-Chain Analysis (SBOM), Vendor-Risk Assessment
 
