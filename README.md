@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Clark Faint
 ### IT Consultant & Technical Operations Specialist
 
-Passionate about infrastructure, automation, and DevOps. I specialize in building robust local labs, managing containerized network services, and applying methodical, analytical troubleshooting to enterprise environments.
+Passionate about infrastructure, automation, and DevOps. I specialize in building robust local labs, managing containerized network services, and applying methodical, analytical troubleshooting to IT issues.
 
 ---
 
@@ -9,7 +9,7 @@ Passionate about infrastructure, automation, and DevOps. I specialize in buildin
 * **CompTIA A+** - Issued Sept 2026, Expires Oct 2029
 * **CompTIA Network+** – Issued Sept 2026, Expires Oct 2029
 * **CompTIA Security+** – Issued Oct 2026, Expires Oct 2029
-* **Computer User Support Specialist (CUSS)** – ACI Learning Enrollment
+* **Computer User Support Specialist (CUSS)** – ACI Learning, Graduated
 * **U.S. Air Force Technical Training** – Systems Deployment & Network Implementation (Signals Intelligence Baseline)
 
 ---
@@ -29,5 +29,5 @@ Passionate about infrastructure, automation, and DevOps. I specialize in buildin
 * **Networking & Security:** Local DNS Infrastructure, Wildcard DNS Routing (Pi-hole/dnsmasq), Static IP Architecture, Layer 7 Traffic Management (Nginx Proxy Manager), SSL/TLS Certificate Management, Mesh VPNs (Tailscale, WireGuard)
 * **Virtualization & Containers:** Type-1 Hypervisors (Proxmox VE), Type-2 Virtualization (VirtualBox Active Directory Labs), Containerization (Docker, Portainer)
 * **Storage Engineering:** Software-Defined Storage Arrays, ZFS File Systems (RAIDZ1 parity pools), Physical Hardware Lifecycles & PCIe Expansion Integration
-* **AI Agents & Software Analysis:** Self-Hosted AI Agents (Hermes Agent), Model Context Protocol (MCP) Tool Integration, Least-Privilege Tool Scoping, Agent Messaging Integrations (Slack Socket Mode), Static Binary Analysis (ELF/PE, REA), Code-Signing Verification, Software Supply-Chain Analysis (SBOM), Vendor-Risk Assessment
+* **AI Agents & Software Analysis:** Self-Hosted AI Agents (Hermes Agent), Model Context Protocol (MCP) Tool Integration, MCP Tool Allow-Listing, Agent Messaging Integrations (Slack Socket Mode), Static Binary Analysis (ELF/PE, REA), Code-Signing Verification, Software Supply-Chain Analysis (SBOM), Vendor-Risk Assessment
 
